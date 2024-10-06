@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "league/csv": "^9.16",
+        "phpoffice/phpspreadsheet": "^3.3"
+    }
+}

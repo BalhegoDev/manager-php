@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": "6755",
+      "product_name": "Onion",
+      "quantity": 2,
+      "price_per_item": 8,
+      "time_submited": "2024-10-06 12:10:23",
+      "total_value": 16
+    }
+  ]
+}
